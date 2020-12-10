@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/controller/DialogueController.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/controller/InvetoryScreenController.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/controller/MainMenuScreenController.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/TorreNegra.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/model/World.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/AnimationSetDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/ChoiceDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/.gitignore</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/Settings.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/TileDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/screen/GameScreen.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/WorldDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/InventoryDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/Conexao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/ArmorDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/controller/MenuScreenController.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/Main.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/ActorDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/com/aTorreNegra/controller/PlayerController.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/DialogueDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/TileMapDao.java</file>
+            <file>file:/C:/Users/manue/Documents/NetBeansProjects/Jogo_Joguito_Cara_De_Priq_%20_%20_%20_/src/connection/DialogueNodeDao.java</file>
+        </group>
+    </open-files>
+</project-private>
