@@ -53,6 +53,7 @@ public class Item {
     }
 
     public String getEndereco() {
+        System.out.println("aksdma");
         return endereco;
     }
     
